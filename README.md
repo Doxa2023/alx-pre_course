@@ -1,1 +1,1 @@
-My first readme is very interesting
+My first readme is interesting
